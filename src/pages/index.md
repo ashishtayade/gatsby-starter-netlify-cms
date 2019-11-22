@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a Ashish
-image: /img/home-jumbotron.jpg
+image: /img/chemex.jpg
 heading: Great coffee with a Ashish
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
